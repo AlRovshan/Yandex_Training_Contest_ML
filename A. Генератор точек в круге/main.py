@@ -12,7 +12,7 @@ def classify_points(points):
 def read_input():
     datasets = []
     # Считываем 100 строк
-    with open("points.txt", "r") as file:
+    with open("input.txt", "r") as file:
         for line in file:  # Читаем построчно из файла
             line = line.strip()
             nums = list(map(float, line.split()))  # Преобразуем в список чисел
