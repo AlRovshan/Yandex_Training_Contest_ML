@@ -6,6 +6,8 @@
 
 [**C. Большая семья бабушки Алевтины**](https://github.com/AlRovshan/Yandex_Training_Contest_ML/tree/main/C.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F%20%D1%81%D0%B5%D0%BC%D1%8C%D1%8F%20%D0%B1%D0%B0%D0%B1%D1%83%D1%88%D0%BA%D0%B8%20%D0%90%D0%BB%D0%B5%D0%B2%D1%82%D0%B8%D0%BD%D1%8B)
 
+[**D. Коллекция статуэток**](https://github.com/AlRovshan/Yandex_Training_Contest_ML/tree/main/D.%20%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F%20%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%8D%D1%82%D0%BE%D0%BA)
+
 [**E. Интерполяция**](https://github.com/AlRovshan/Yandex_Training_Contest_ML/tree/main/E.%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BF%D0%BE%D0%BB%D1%8F%D1%86%D0%B8%D1%8F)
 
 [**F. Биометрия**](https://github.com/AlRovshan/Yandex_Training_Contest_ML/tree/main/F.%20%D0%91%D0%B8%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)
